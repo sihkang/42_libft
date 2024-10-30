@@ -18,30 +18,54 @@
 
 ### Mandatory - 기본 함수 (C Library)
 • isalpha
+
 • isdigit
+
 • isalnum
+
 • isascii
+
 • isprint
+
 • strlen
+
 • memset
+
 • bzero
+
 • memcpy
+
 • memmove
+
 • strlcpy
+
 • strlcat
+
 • toupper
+
 • tolower
+
 • strchr
+
 • strrchr
+
 • strncmp
+
 • memchr
+
 • memcmp
+
 • strnstr
+
 • atoi
 
+
 In order to implement the two following functions, you will use malloc():
+
 • calloc
+
 • strdup
+
 
 ### Mandatory - C Library 외 함수
 - ft_substr
